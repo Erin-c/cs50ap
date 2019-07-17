@@ -6,3 +6,8 @@ I can create lists
 - first
 - second
 - third
+
+
+{% spoiler "Solution" %}
+this isn't as helpful as you thought it would be
+{% endspoiler %}
