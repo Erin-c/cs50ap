@@ -1,4 +1,4 @@
 lab50:
   files:
     - !exclude "*"
-    - !include syntax.c
+    - !include hello.c
